@@ -1,3 +1,20 @@
 body {
-    background-image: url("assets/images/backgroundimage.jpg");
+    background-image: url("https://images.freecreatives.com/wp-content/uploads/2015/03/6809725-simple-vintage-backgrounds.jpg");
+}
+.card-title{
+    font-family: 'Charm', cursive;
+    font-size: 56px;
+    font-weight: bold;
+    color: maroon;
+}
+.card-text{
+    color: teal;
+    font-weight: bold;
+}
+.card{
+    background-image: url("https://cdn.pixabay.com/photo/2016/05/14/15/10/banner-1391996_960_720.jpg");
+    /* background-image: url("https://www.montereyantiques.com/s/img/emotionheader.jpg"); */
+}
+.row{
+    background-color: teal;
 }
